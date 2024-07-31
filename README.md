@@ -22,3 +22,5 @@
 - Run XAMPP as an administrator.
 - Start the Apache.
 - Copy the following URL and paste it into your browser: http://localhost/Laboratory_Exam/public/#
+- Choose object ID from the dropdown.
+- The object details will display in the card.
