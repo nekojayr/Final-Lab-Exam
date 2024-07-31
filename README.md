@@ -15,7 +15,7 @@
 
 ## Steps:
 
-- Download the project zip file from the provided source.
+- Download the project from the provided source.
 - Extract the downloaded zip file.
 - Rename the folder to Laboratory_Exam.
 - Move the extracted folder to your htdocs directory, typically found in C:\xampp\htdocs on Windows.
