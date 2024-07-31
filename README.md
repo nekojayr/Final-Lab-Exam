@@ -6,6 +6,10 @@
 2. Frontend: AJAX and Bootstrap 5
 3. Backend: CodeIgniter 4.4.6
 
+## Requirements
+
+1. xampp version 3.3.0
+
 ## User Story:
 - As a user, I want to fetch and display details of various museum objects, So that I can learn more about the objects of interest available in the museum's collection.
 
